@@ -1,0 +1,7 @@
+Bootstrap grid option
+extra small(xs)
+small(sm)
+medium(md)
+large(lg)
+extra large(xl)
+extra extra large(xxl)

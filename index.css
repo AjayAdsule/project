@@ -1,0 +1,61 @@
+.container{
+    height: auto;
+    width: 100%;
+    border:2px solid red
+}
+#footer{
+    height: 60px;
+    border:2px solid blue;
+    width: 100%;
+}
+.main-banner{
+    height:343px;
+    width: 100%;
+    border: 2px #9d30ec
+    margin-top: 2%;
+}
+.sub-banner{   
+    border: 2px solid green;
+}
+.sub-banner>img{
+    height:140px;
+    width: 100%;
+}
+.sub-banner-2{
+  
+    border: 2px solid red;
+}
+.sub-banner-2>img{
+    height: 140px;
+    width: 100%;
+}
+#logo{
+    height: 25px;
+    margin-left: 1%;
+}
+#nav-bar_font{
+    font-size: 15px;
+    font-weight: bold;
+    color:black;
+}
+#search{
+    width: 150%;
+}
+.img-thumbnail{
+    border:2px solid green;
+}
+#first>img{
+    height: 114px;
+    width: 111%;
+}
+#second>img{
+    height: 114px;
+    width: 111%;
+}
+#third>img{
+    height: 114px;
+    width: 111%;
+}
+#image>img{
+    height: 142px;
+}
