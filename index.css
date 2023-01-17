@@ -1,8 +1,4 @@
-.container{
-    height: auto;
-    width: 100%;
-    border:2px solid red
-}
+
 #footer{
     height: 60px;
     border:2px solid blue;
@@ -56,6 +52,22 @@
     height: 114px;
     width: 111%;
 }
-#image>img{
+.image>img{
     height: 142px;
+    width: 139%;
+}
+/* .image1>img{
+    margin-left: 2%;
+
+} */
+.image2{
+    height: 50px;
+    width: 10%;
+    padding-right: 0%;
+    padding-left: 0%;
+}
+#row5{
+    height: 100px;
+    width: 100%;
+    border: 2px solid red;
 }
