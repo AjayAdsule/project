@@ -1,0 +1,86 @@
+.icon_image{
+    height: 25px;
+    width: 90%;
+}
+.header{
+    height: 50px;
+    width: 100%;
+   
+    margin-left: 2%;
+}
+.header>h3{
+    font-weight: bolder;
+    
+}
+
+/* this is row1 css */
+.row1{
+    border: 2px solid red;
+    position: relative;
+    height: 234px;
+}
+.bo>img{
+    height: 230px;
+    width: 200%;
+  
+}
+.bo{
+    left: -15px;
+}
+.pos{
+    left: 38px;
+}
+.pos1{
+    left: 91px;
+}
+.pos2{
+    left: 148px;
+}
+.pos3{
+    left: 209px;
+}
+.pos4{
+    left:262px;
+}
+.pos5{
+    left: 314px;
+}
+.pos6{
+    left: 365px;
+}
+/* this is 2 row section */
+.row2{
+    /* border: 2px solid red */
+}
+.row2>img{
+    height: 150px;
+}
+
+/* this is row3 section */
+.row3{
+    /* border: 2px solid red; */
+   
+}
+.row3-img{
+    /* border: 2px solid blue; */
+    padding: 0% 0%;
+    width: 10%;
+}
+.row3-img>img{
+    height: 140px;
+    width: 100%;
+}
+
+/* this is row4 */
+.row4{
+    /* border: 2px solid black; */
+    position: relative;
+}
+.row4-img{
+    padding: 0% 0%;
+    width: 10%;
+}
+.row4-img>img{
+    height: 140px;
+    width: 100%;
+}
